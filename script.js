@@ -1,5 +1,5 @@
 var blogURL = window.location.origin;
-var labels = ["Result", "Admit card", "Latest job", "Answer Key", "Syllabus", "Admission"];
+var labels = ["Result", "Admit card", "Latest jobs", "Answer Key", "Syllabus", "Admission"];
 var maxResults = 8;
 var startIndex = [1, 1, 1, 1, 1, 1];
 var containers = ['container1', 'container2', 'container3', 'container4', 'container5', 'container6'];
